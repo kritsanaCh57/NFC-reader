@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NFC Reader 2</string>
+    <string name="intro_message">แตะบัตรเพื่ออ่านข้อมูล</string>
+    <string name="error">ERROR</string>
+    <string name="no_nfc">DEVICE not have NFC</string>
+    <string name="nfc_disabled">NFC is disable.</string>
+    <string name="user_register">Register</string>
+    <string name="menu_main_clear_title">Effacer tout</string>
+    <string name="menu_main_copy">Copier les IDs</string>
+    <string name="menu_copy_hex">Hex</string>
+    <string name="menu_copy_reversed_hex">Hex renversé</string>
+    <string name="menu_copy_dec">Dec</string>
+    <string name="menu_copy_reversed_dec">Dec renversé</string>
+    <string name="nothing_scanned">Rien de scanné pour le moment</string>
+
+
+    <string name="input_name">กรอกชื่อ-สกุล</string>
+    <string name="input_submit">บันทึก</string>
+
+    <string name="sure_submit_title">คุณต้องการบันทึก</string>
+    <string name="sure_submit_msg">กด ok เพื่อบันทึกข้อมูล</string>
+
+    <string name="input_value">กรอกจำนวนเงิน</string>
+
+    <string name="empty_history">ไม่มีประวัติการใช้งาน</string>
+    <string name="record_value">บันทึกจำนวนเงิน</string>
+    <string name="baht">บาท</string>
+</resources>
